@@ -1,0 +1,7 @@
+{
+  "name": "ReLoop AI",
+  "description": "Pioneering the future of sustainable electronics through artificial intelligence and community-driven circular economy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
